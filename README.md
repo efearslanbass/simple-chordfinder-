@@ -61,7 +61,7 @@ MP3, MP4, WAV veya OGG formatında bir müzik dosyası sürükle-bırak yap ya d
 
 ```bash
 # 1. Repoyu klonla
-git clone https://github.com/kullanici-adin/chordfinder.git
+git clone https://github.com/efearslanbass/chordfinder.git
 
 # 2. Klasöre gir
 cd chordfinder
@@ -131,6 +131,6 @@ Bu proje **MIT Lisansı** altında dağıtılmaktadır. Detaylar için [LICENSE]
 
 Müzisyenler için, müzisyenler tarafından yapıldı 🎵
 
-**[⭐ Star ver](https://github.com/kullanici-adin/chordfinder)** • **[🐛 Bug bildir](https://github.com/kullanici-adin/chordfinder/issues)** • **[💡 Öneri sun](https://github.com/kullanici-adin/chordfinder/issues)**
+**[⭐ Star ver](https://github.com/efearslanbass/chordfinder)** • **[🐛 Bug bildir](https://github.com/efearslanbass/chordfinder/issues)** • **[💡 Öneri sun](https://github.com/efearslanbass/chordfinder/issues)**
 
 </div>
